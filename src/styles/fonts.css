@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Raleway-Bold' ;
+    src: url(../fonts/Raleway/Raleway-Bold.ttf),
+         url(../fonts/Raleway/Raleway-Bold.woff2) format('woff2'), 
+         url(../fonts/Raleway/Raleway-Bold.woff) format('woff'),
+         url(../fonts/Raleway/Raleway-Bold.eot) format('eot');
+}
+@font-face {
+    font-family: 'Raleway-ExtraBold';
+    src: url(../fonts/Raleway/Raleway-ExtraBold.ttf),
+    url(../fonts/Raleway/Raleway-ExtraBold.woff2) format('woff2'), 
+         url(../fonts/Raleway/Raleway-ExtraBold.woff) format('woff'),
+         url(../fonts/Raleway/Raleway-ExtraBold.eot) format('eot');
+}
+@font-face {
+    font-family: 'Nunito-Bold' ;
+    src: url(../fonts/Nunito/Nunito-Bold.ttf),
+    url(../fonts/Nunito/Nunito-Bold.woff2) format('woff2'), 
+         url(../fonts/Nunito/Nunito-Bold.woff) format('woff'),
+         url(../fonts/Nunito/Nunito-Bold.eot) format('eot');
+}
+@font-face {
+    font-family: 'Nunito-Regular';
+    src: url(../fonts/Nunito/Nunito-Regular.ttf),
+    url(../fonts/Nunito/Nunito-Regular.woff2) format('woff2'), 
+    url(../fonts/Nunito/Nunito-Regular.woff) format('woff'),
+    url(../fonts/Nunito/Nunito-Regular.eot) format('eot');
+}
+@font-face {
+    font-family: 'Montherrat-Regular';
+    src: url(../fonts/Montherrat/Montherrat-Regular.ttf),
+    url(../fonts/Montherrat/Montherrat-Regular.woff2) format('woff2'), 
+    url(../fonts/Montherrat/Montherrat-Regular.woff) format('woff'),
+    url(../fonts/Montherrat/Montherrat-Regular.eot) format('eot');
+}
+@font-face {
+    font-family: 'Montherrat-Bold';
+    src: url(../fonts/Montherrat/Montherrat-Bold.ttf),
+    url(../fonts/Montherrat/Montherrat-Bold.woff2) format('woff2'), 
+    url(../fonts/Montherrat/Montherrat-Bold.woff) format('woff'),
+    url(../fonts/Montherrat/Montherrat-Bold.eot) format('eot');
+}
+@font-face {
+    font-family: 'Montherrat-SemiBold';
+    src: url(../fonts/Montherrat/Montherrat-SemiBold.ttf),
+    url(../fonts/Montherrat/Montherrat-SemiBold.woff2) format('woff2'), 
+    url(../fonts/Montherrat/Montherrat-SemiBold.woff) format('woff'),
+    url(../fonts/Montherrat/Montherrat-SemiBold.eot) format('eot');
+}
